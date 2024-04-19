@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #b98a5a !important;
+}
+
+.nav-link {
+    color: white !important ;
+}
+
+.nav-link:active {
+    color: white !important;
+}
+.navbar-brand img{
+    height: 70px;
+    width: 100%;
+  }
